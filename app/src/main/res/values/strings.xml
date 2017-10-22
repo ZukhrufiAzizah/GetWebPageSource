@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GetWebPageSourceCode</string>
+    <string name="hintUrl">URL web</string>
+    <string-array name="protokol">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
